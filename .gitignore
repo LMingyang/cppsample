@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# build system
+/bin
+/.bin
+/build
+/deps
+/.ccls-cache
+/.cache
+/cmake-build-*
+
+# IDEs
+.vscode
+.idea
